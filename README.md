@@ -44,6 +44,10 @@ This project predicts house prices using Machine Learning and Linear Regression.
 ### New House Prediction
 ![New House Prediction](screenshots/New%20house.png)
 
+### Actual vs Predicted Graph
+![Actual vs Predicted Graph](screenshots/Visualization.png)
+
+
 ## Future Improvements
 - Deploy using Streamlit
 - Add more advanced ML models
